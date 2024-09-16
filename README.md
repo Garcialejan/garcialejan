@@ -15,7 +15,6 @@
 - Analytical engineering with a strong mathematical and statistical background :bar_chart::mortar_board:
 - Currently studying Big Data and learning data science on my own :chart_with_upwards_trend:
 - Concentrating on studying data and becoming a data scientist :mortar_board::hourglass_flowing_sand:
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Garcialejan/garcialejan/blob/main/RESUME%20-%20ALEJANDRO%20GARCIA.pdf)
 
 <br><br>
 

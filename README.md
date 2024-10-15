@@ -11,10 +11,10 @@
 
 <br>
 
-- I'm a data lover with passion for Big Data and data analysis :green_heart::blue_book:
+- I'm a data lover with passion for Big Data infraestructures and data science :green_heart::blue_book:
 - Analytical engineering with a strong mathematical and statistical background :bar_chart::mortar_board:
-- Currently studying Big Data and learning data science on my own :chart_with_upwards_trend:
-- Concentrating on studying data and becoming a data scientist :mortar_board::hourglass_flowing_sand:
+- Currently studying and learning MLOPS and models deployment on my own :chart_with_upwards_trend:
+- Concentrating on studying data and becoming a better data scientist :mortar_board::hourglass_flowing_sand:
 
 <br><br>
 
@@ -34,6 +34,7 @@
     ![kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
     ![MSOFICCE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     ![MSEXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+    ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <br>   
     
@@ -53,7 +54,6 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
     ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
     ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 
@@ -61,7 +61,6 @@
 
 - **Future learning objectives**:
 
-    ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
     ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
     ![MSAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)   
 

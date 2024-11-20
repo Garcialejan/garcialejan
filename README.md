@@ -1,20 +1,23 @@
-
 <h1 align="center"><b>Hi , I'm Alejandro García</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
+</br>
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine learning engineer and MLOPS...;Machine+learning+and+deep+learning,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=ML+Engineer+...;Data+scientists...;MLOPS+Enthusiast+...;AWS+practicioner+...;Always+ready+for+big+stuff..." alt="Typing SVG">
 </p>
-
-<br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## ⚡ About me:
 
 <br>
 
-- I'm a data lover with passion for Big Data infraestructures and data science :green_heart::blue_book:
-- Analytical engineering with a strong mathematical and statistical background :bar_chart::mortar_board:
-- Currently studying and learning MLOPS and models deployment on my own :chart_with_upwards_trend:
-- Concentrating on studying data and becoming a better data scientist :mortar_board::hourglass_flowing_sand:
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+- I'm a data lover with a passion for MLOps, data science, and deep learning 🧠💻💚
+- Analytical engineer with a strong mathematical and statistical background 📊🎓
+- Currently studying and learning MLOps, deep learning, and models deployment on my own 🚀📈
+- Concentrating on studying data, mastering deep learning techniques, and becoming a better machine learning engineer 🎓⏳🤖
 
 <br><br>
 

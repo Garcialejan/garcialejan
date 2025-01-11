@@ -16,8 +16,8 @@
 
 - I'm a data lover with a passion for MLOps, data science, and deep learning 🧠💻💚
 - Analytical engineer with a strong mathematical and statistical background 📊🎓
-- Currently studying and learning MLOps, deep learning, and models deployment on my own 🚀📈
-- Concentrating on studying data, mastering deep learning techniques, and becoming a better machine learning engineer 🎓⏳🤖
+- Currently studying and learning MLOps, deep learning, and ML models deployment on my own 🚀📈
+- Concentrating on studying data, mastering devops techniques and becoming a better machine learning engineer 🎓⏳🤖
 
 <br><br>
 

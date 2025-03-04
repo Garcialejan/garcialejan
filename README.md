@@ -61,6 +61,7 @@
     ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
     ![DVC](https://img.shields.io/static/v1?style=for-the-badge&message=DVC&color=13ADC7&logo=DVC&logoColor=FFFFFF&label=)
     ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+    ![MLflow](https://img.shields.io/badge/MLflow-0056D2?style=for-the-badge&logo=mlflow&logoColor=white)
     ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 
 <br>

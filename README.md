@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=ML+Engineer+...;Data+scientists...;MLOPS+Enthusiast+...;AWS+practicioner+...;Ready+for+big+stuff..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=ML+Engineer+...;Data+scientists...;MLOPS+Enthusiast+...;AWS+practitioner+...;Ready+for+big+stuff..." alt="Typing SVG">
 </p>
 	
 ## ⚡ About me:
